@@ -45,9 +45,9 @@ public:
 
 ## 🤹 Recent Activity
 ```
-yap
+<!--GITHUB_ACTIVITY:{"rows": 5, "exclude": ["ForkEvent"], "raw": true}-->
 ```
 ## 🌟 Cool Repos
 ```
-soon
+<!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
 ```
