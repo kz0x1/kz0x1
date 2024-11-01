@@ -4,15 +4,15 @@ class AboutMe final
 public:
   static const std::string Name() const
   {
-    return "Andreas Maerten";
+    return "kz";
   }
 
   static const std::vector<std::string> Languages() const
   {
     return {
       "English",
-      "Dutch",
-      "French"
+      "Hindi",
+      "Russian"
     };
   }
 
@@ -21,8 +21,7 @@ public:
     return {
       "C++",
       "C#",
-      "Java",
-      "NodeJS",
+      "JS",
       "Python"
     };
   }
@@ -30,19 +29,15 @@ public:
   static const std::vector<std::string> Skillset() const
   {
     return {
-      "Docker",
-      "Github CI/CD",
-      "Reverse Engineering",
-      "Linux",
-      "Git"
+      "Skidding 🤑",
     };
   }
 
   static const std::unordered_map<std::string, std::string> Socials() const
   {
     return {
-      { "twitter", "Yimura9" },
-      { "discord", "yimura.dev" }
+      { "instagram", "n.igger.beater69" },
+      { "discord", "kz0x1" }
     };
   }
 };
@@ -50,17 +45,9 @@ public:
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to YimMenu/YimMenu
-⬆️ Pushed 1 commit to Yimura/Android-Build-Env
-🗣 Commented on #8 in Yimura/Injector
-❗️ Closed issue #8 in Yimura/Injector
-⬆️ Pushed 1 commit to Yimura/GTAV-Classes
+yap
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 1552 📦 YimMenu/YimMenu
-⭐️ 198  📦 Yimura/GTAV-Classes
-⭐️ 51   📦 Yimura/Scraper
-⭐️ 36   📦 Yimura/Injector
-⭐️ 7    📦 Yimura/GTA5-Backend
+soon
 ```
